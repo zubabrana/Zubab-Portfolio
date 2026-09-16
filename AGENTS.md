@@ -10,3 +10,6 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 
 ## Component structure
 Keep page sections in focused React components instead of expanding App.jsx. Each interactive section owns its state; reusable photo viewing is a separate controlled component. Store gallery, reel, and screen-credit data under src/data.
+
+## Deployment ownership — user instruction
+Do not deploy, publish, push source to hosting, or change site sharing. The user will handle deployment themselves. Keep all future website work local unless the user explicitly changes this instruction. The previous Sites deployment has not been removed: no unpublish connector action was available, and browser control failed. Do not treat the hosted copy as an approved deployment.
