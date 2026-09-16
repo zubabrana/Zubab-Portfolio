@@ -1,0 +1,45 @@
+import newPhotos from "./new-photos.json";
+
+export const photos = [
+  ...newPhotos,
+  { id: 205, title: "A city in the window", category: "Moments", recent: true },
+  { id: 207, title: "Afternoon light", category: "Moments", recent: true },
+  {
+    id: 203,
+    title: "A little Beverly Hills",
+    category: "Moments",
+    recent: true,
+  },
+  {
+    id: 204,
+    title: "A moment on the stairs",
+    category: "Moments",
+    recent: true,
+  },
+  {
+    id: 208,
+    title: "Along the city streets",
+    category: "Moments",
+    recent: true,
+  },
+  { id: 206, title: "Everyday discoveries", category: "Moments", recent: true },
+  {
+    id: 201,
+    title: "Yellow, in three frames",
+    category: "Moments",
+    recent: true,
+  },
+  { id: 202, title: "Under the palms", category: "Moments", recent: true },
+  { id: 54, title: "The quiet glamour", category: "Editorial" },
+  { id: 37, title: "A study in contrasts", category: "Editorial" },
+  { id: 120, title: "An afternoon, elsewhere", category: "Moments" },
+  { id: 108, title: "Pattern & presence", category: "Editorial" },
+  { id: 127, title: "In a softer light", category: "Editorial" },
+  { id: 68, title: "Away from the frame", category: "Moments" },
+  { id: 60, title: "An evening in monochrome", category: "Editorial" },
+  { id: 29, title: "Among the flowers", category: "Moments" },
+  { id: 38, title: "Monochrome movement", category: "Editorial" },
+  { id: 109, title: "By the window", category: "Editorial" },
+  { id: 124, title: "Soft pink, city steps", category: "Editorial" },
+  { id: 93, title: "A change of scenery", category: "Moments" },
+];

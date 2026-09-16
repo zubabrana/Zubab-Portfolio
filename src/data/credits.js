@@ -1,0 +1,58 @@
+export const credits = [
+  {
+    title: "Sauda",
+    type: "2025 · EXPRESS ENTERTAINMENT · DRAMA",
+    text: "Starring alongside Ali Rehman Khan in a drama about the personal cost of a life-changing bargain. Directed by Ramish Rizvi and written by Ramsha Raheel. The broadcaster’s first episode was released on 12 September 2025.",
+    url: "https://www.youtube.com/watch?v=gAb2rpb-zbU",
+    linkLabel: "Watch on Express TV",
+  },
+  {
+    title: "Miss B.A Pass",
+    type: "2025 · ARY DIGITAL · TELEFILM",
+    text: "An Eid comedy telefilm with Haris Waheed, Nadia Afgan and Fazila Qazi. ARY Digital released the full telefilm on 8 June 2025.",
+    url: "https://www.youtube.com/watch?v=rKs6jExirKk",
+    linkLabel: "Watch on ARY Digital",
+  },
+  {
+    title: "Chaal",
+    type: "2024 · GEO ENTERTAINMENT · DRAMA",
+    text: "Zubab plays Rubab opposite Ali Ansari in a story of two feuding families brought together by marriage. Directed by Furqan Adam and written by Nadia Ahmed.",
+    url: "https://harpalgeo.tv/program/Chaal/20539",
+    linkLabel: "Explore on Har Pal Geo",
+  },
+  {
+    title: "Khudsar",
+    type: "2024 · ARY DIGITAL · DRAMA",
+    text: "Starring with Humayoun Ashraf and Sehar Afzal in a drama about pride and its effect on relationships. Directed by Syed Faisal Bukhari and Syed Ali Bukhari, and written by Asma Sayani. First broadcast on 15 April 2024.",
+    url: "https://www.youtube.com/watch?v=h2Vtrzo266g",
+    linkLabel: "Watch on ARY Digital",
+  },
+  {
+    title: "Behroop",
+    type: "2023 · GEO ENTERTAINMENT · DRAMA",
+    text: "Zubab appears as Falak, a young woman navigating a difficult marriage and family interference. Directed by Ali Akbar and written by Rukhsana Nigar for 7th Sky Entertainment.",
+    url: "https://harpalgeo.tv/program/Behroop",
+    linkLabel: "Explore on Har Pal Geo",
+  },
+  {
+    title: "Bandish",
+    type: "2019 · ARY DIGITAL · DRAMA",
+    text: "A defining early performance in a supernatural family drama, exploring fear, vulnerability and conflict.",
+    url: "https://www.thenews.com.pk/magazine/instep-today/463606-catching-up-with-zubab-rana",
+    linkLabel: "Read the career interview",
+  },
+  {
+    title: "Mere Khudaya",
+    type: "2018 · ARY DIGITAL · DRAMA",
+    text: "As Aleena, Zubab takes on a complex character in a story of friendship, jealousy and betrayal.",
+    url: "https://arydigital.tv/meray-khudaya-the-potpourri-of-jealousy-and-revenge",
+    linkLabel: "Read on ARY Digital",
+  },
+  {
+    title: "Naseebon Jali",
+    type: "2017 · HUM TV · TELEVISION DEBUT",
+    text: "Her first television serial marked the transition from modelling to acting.",
+    url: "https://www.thenews.com.pk/magazine/instep-today/463606-catching-up-with-zubab-rana",
+    linkLabel: "Read the career interview",
+  },
+];

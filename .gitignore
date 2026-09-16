@@ -1,0 +1,7 @@
+node_modules/
+dist/
+review/
+.env*
+.npmrc
+.openai/*
+!.openai/hosting.json
