@@ -9,6 +9,7 @@ import { About } from "./components/About.jsx";
 import { Gulab } from "./components/Gulab.jsx";
 import { Enquiries } from "./components/Enquiries.jsx";
 import { Footer } from "./components/Footer.jsx";
+import { Analytics } from "@vercel/analytics/react";
 
 export function App() {
   return (
@@ -27,6 +28,7 @@ export function App() {
         </main>
         <Footer />
       </div>
+      <Analytics />
     </>
   );
 }
