@@ -23,13 +23,13 @@ export function Hero() {
         <div className="intro">
           <p className="eyebrow accent">THE ART OF BECOMING</p>
           <h2>
-            Presence,
+            Style,
             <br />
-            in every frame.
+            in every angle.
           </h2>
           <p className="intro-copy">
-            An exploration of performance,
-            <br className="desktop-break" /> expression and personal style.
+            An off-duty study in shape,
+            <br className="desktop-break" /> movement and personal style.
           </p>
           <SectionLink className="text-link" href="#editorial">
             Explore portfolio <ArrowRight size={23} weight="thin" />
@@ -42,26 +42,26 @@ export function Hero() {
         </div>
         <div className="hero-image">
           <img
-            src={imageUrl(205)}
-            alt="Zubab Rana beside a window overlooking the city"
+            src={imageUrl(327)}
+            alt="Zubab Rana taking a side-profile mirror portrait in a black polka-dot top"
             fetchPriority="high"
           />
         </div>
         <div className="hero-aside">
           <div className="aside-crop">
             <img
-              src={imageUrl(207)}
-              alt="Zubab Rana in afternoon light beside a brick wall"
+              src={imageUrl(328)}
+              alt="Zubab Rana taking a front-facing mirror portrait in a black polka-dot top"
               fetchPriority="high"
             />
           </div>
-          <h2>Beyond the frame.</h2>
+          <h2>A softer frame.</h2>
           <span className="short-rule" />
           <p className="eyebrow">
-            MORE
+            POISE
             <br />
-            THAN
-            <br />A ROLE
+            IN
+            <br />MOTION
           </p>
         </div>
       </section>
