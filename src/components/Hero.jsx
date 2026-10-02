@@ -42,7 +42,7 @@ export function Hero() {
         </div>
         <div className="hero-image">
           <img
-            src={imageUrl(327)}
+            src={imageUrl(301)}
             alt="Zubab Rana taking a side-profile mirror portrait in a black polka-dot top"
             fetchPriority="high"
           />
@@ -50,7 +50,7 @@ export function Hero() {
         <div className="hero-aside">
           <div className="aside-crop">
             <img
-              src={imageUrl(328)}
+              src={imageUrl(311)}
               alt="Zubab Rana taking a front-facing mirror portrait in a black polka-dot top"
               fetchPriority="high"
             />
